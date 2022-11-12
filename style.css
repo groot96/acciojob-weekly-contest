@@ -1,6 +1,7 @@
 .navbar {
+    padding: 15px;
     width: 100%;
-    background-color: #555;
+    background-color:black;
     overflow: auto;
    } 
   
@@ -38,10 +39,13 @@ div.navbar a:hover{
   }
   .img-div{
     height: 400px;
-    width: 50%;
+    width: 45%;
     margin-left: 175px;
     float: right;
-    background-color: gray;
+    
 
   }
-  
+  #btn-1{
+    background-color: black;
+    color: aliceblue;
+  }
